@@ -1,0 +1,6 @@
+name: PFly
+version: 1.0
+author: pzsz
+main: br.com.pzsz.Main
+commands:
+  fly:
